@@ -21,7 +21,7 @@ func main() {
 	gophers := make(map[*m.Session]*GopherInfo)
 
 	router.GET("/", func(c *gin.Context) {
-		http.ServeFile(c.Writer, c.Request, "index.html")
+		http.ServeFile(c.Writer, c.Request, "main.html")
 	})
 
 	router.GET("/ws", func(c *gin.Context) {

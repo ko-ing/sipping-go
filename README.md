@@ -7,5 +7,11 @@
 
 [//]: # ([푸리에 변환]&#40;https://darkpgmr.tistory.com/171&#41;  )
 
-go gin melody 따라하기
-https://github.com/olahol/melody
+# 주제
+golang + gin과 react를 가지고 놀면서 이것저것 해보기  
+소켓통신으로 게임?
+
+# 참고 자료
+[create-react-app 없이 리액트 프로젝트 만들기](https://www.linkedin.com/pulse/create-react-app-without-create-react-app-cra-elhousieny-phd%25E1%25B4%25AC%25E1%25B4%25AE%25E1%25B4%25B0/?trackingId=sxTKD8ZVRSiYhHKzvbciCg%3D%3D)    
+[gin github](https://github.com/gin-gonic/gin)  
+[gin-melody-github](https://github.com/olahol/melody)  
